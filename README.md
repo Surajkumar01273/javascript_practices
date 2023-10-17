@@ -1,2 +1,3 @@
 # javascript_practices
-this practice javascript file
+This practice javascript file
+auther - Suraj kumar
